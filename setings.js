@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'Kight',
   author: 'Bot',
-  botName: "Knight Bot",
-  botOwner: '''๋͜͡➣┼ 𝛭𝑅 𝐷𝛩𝑅𝛯𝛭𝛩𝛮 ✞︎ ⃟🇵🇰❤️🔥', // Your name
-  ownerNumber: '923186201007', //Your number
+  botName: "Kniht Bot",
+  botOwner: '''๋͜͡➣┼ 𝛭𝑅 𝐷𝛩𝑅𝛯𝛭𝛩𝛮 ✞︎ ⃟🇵🇰❤️🔥', // aevin7z
+  ownerNumber: '923186201007', //6287856141568
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
   description: "This is a bot for managing group commands and automating tasks.",
